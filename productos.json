@@ -1,0 +1,30 @@
+[
+  {
+    "id": "corte",
+    "nombre": "Vinilo de Corte",
+    "tipo": "Ploteo / señalética",
+    "precio": 1200000,
+    "anchoRollo": 60,
+    "largoRollo": 50,
+    "descripcion": "Vinilo de corte adhesivo para rotulación y señalética.",
+    "caracteristicas": [
+      "Alta durabilidad exterior (5-7 años)",
+      "Disponible en múltiples colores",
+      "Fácil de instalar y remover"
+    ]
+  },
+  {
+    "id": "impreso",
+    "nombre": "Vinilo Impreso",
+    "tipo": "Full color / fotografía",
+    "precio": 1200000,
+    "anchoRollo": 60,
+    "largoRollo": 50,
+    "descripcion": "Impresión digital de alta resolución sobre vinilo autoadhesivo.",
+    "caracteristicas": [
+      "Resolución hasta 1440 dpi",
+      "Tintas UV resistentes a la intemperie",
+      "Laminado protector disponible"
+    ]
+  }
+]
